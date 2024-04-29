@@ -1,0 +1,79 @@
+{     "statistics": "الاحصائيات",
+
+     "color": "اللون",
+     "monthly": "شهري",
+     "daily": "يومي",
+  "arabic": "عربي",
+  "english": "انجليزي",
+  "logout": "تسجيل الخروج",
+    
+        "app_title" : "مصاريف",
+        "font" : "Cairo",
+        "warning" : " !!! تحذير",
+        "warning_exit" : "هل ترغب في الخروج من التطبيق",
+        "yes" : "نعم",
+        "no" : "لا",
+        "categories": "التصنيفات",
+        "home": "الرئيسية",
+        "expenses": "المصروفات"
+       ,
+            "username": "اسم المستخدم",
+            "email": "الايميل",
+            "password": "كلمة المرور",
+            "confirm_password": "تأكيد كلمة المرور",
+            "register_button": "تسجيل",
+            "already_have_account": "لدي حساب بالفعل؟",
+            "login_button": "تسجيل الدخول"
+        ,
+            "empty_email": "الرجاء إدخال عنوان بريدك الإلكتروني.",
+            "empty_password": "الرجاء إدخال كلمة المرور الخاصة بك.",
+            "password_mismatch": "كلمات المرور غير متطابقة.",
+            "weak_password": "كلمة المرور ضعيفة. الرجاء اختيار كلمة مرور أقوى.",
+            "email_in_use": "عنوان البريد الإلكتروني مستخدم بالفعل.",
+            "invalid_email": "عنوان بريد إلكتروني غير صالح. الرجاء إدخال بريد إلكتروني صالح.",
+            "unexpected_error": "حدث خطأ غير متوقع."
+       ,
+            "title": "تسجيل الدخول",
+             "no_account": "ليس لديك حساب؟",
+            "create_account": "انشاء حساب"
+       ,
+            "empty_fields": "الرجاء إدخال عنوان بريدك الإلكتروني وكلمة المرور.",
+            "user_not_found": "عنوان البريد الإلكتروني غير موجود. يرجى إنشاء حساب.",
+            "wrong_password": "كلمة المرور غير صحيحة. الرجاء المحاولة مرة أخرى.",
+           "category": "التصنيف",
+           "create_category": "انشاء تصنيف",
+           "create_expense": "انشاء مصروف",
+            "name_hint": "الاسم",
+            "description_hint": "الوصف",
+            "icon_hint": "الايقونة",
+            "color_hint": "اللون",
+            "save_color": "حفظ اللون",
+            "save": "حفظ"
+        ,
+            "update_category": "تعديل تصنيف",
+            "edit_color": "تعديل اللون",
+            "edit": "تعديل"
+         ,    "add_expense": "اضافة مصروف",
+            "amount_hint": "القيمة",
+            "date_label": "التاريخ",
+            "fill_required_fields": "من فضلك املء الحقول المطلوبه"
+       ,
+            "update_expense": "تعديل مصروف",
+               "update": "تعديل",
+                "confirm_delete_message": "هل أنت متأكد أنك تريد حذف السجل؟",
+            "total_balance":"الرصيد الاجمالي",
+            "income":"الدخل" ,
+            "delete":"حذف" ,
+            "deleteError": "حدث خطأ أثناء حذف السجل",
+            "deleteSuccess": "تم حذف السجل بنجاح"
+           ,"enter_income": "ادخل مقدار الدخل",
+            "add_income": "اضافة مدخول"
+          
+          
+          
+          
+          
+          
+          
+
+}
